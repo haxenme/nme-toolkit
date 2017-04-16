@@ -1,0 +1,12 @@
+{
+  "name": "nme-toolkit",
+  "url": "https://github.com/nmehost",
+  "license": "MIT",
+  "tags": [ "cpp", "neko", "nme", "opengl", "sdl", "android", "ios"  ],
+  "description": "NME library source files",
+  "version": "6.0.0",
+  "binaryversion": "2",
+  "releasenote": "Add submodules.",
+  "contributors": ["gamehaxe"],
+  "dependencies": {}
+}

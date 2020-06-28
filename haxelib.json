@@ -4,7 +4,7 @@
   "license": "MIT",
   "tags": [ "cpp", "neko", "nme", "opengl", "sdl", "android", "ios"  ],
   "description": "NME library source files",
-  "version": "6.3.0",
+  "version": "6.3.1",
   "binaryversion": "3",
   "releasenote": "Winrt fixes, update to latest version.",
   "contributors": ["gamehaxe"],

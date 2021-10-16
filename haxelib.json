@@ -1,12 +1,12 @@
 {
   "name": "nme-toolkit",
-  "url": "https://github.com/nmehost",
+  "url": "https://github.com/haxenme",
   "license": "MIT",
   "tags": [ "cpp", "neko", "nme", "opengl", "sdl", "android", "ios"  ],
   "description": "NME library source files",
-  "version": "6.3.2",
+  "version": "6.3.3",
   "binaryversion": "3",
-  "releasenote": "Winrt fixes, update to latest version.",
+  "releasenote": "Mac M1 fixes.",
   "contributors": ["gamehaxe"],
   "dependencies": {}
 }

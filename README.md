@@ -20,18 +20,17 @@ mkdir nme-toolkit-dev
 haxelib dev nme-toolkit nme-toolkit-dev
 cd nme-toolkit-dev
 
-git clone https://github.com/native-toolkit/angle.git
-git clone https://github.com/native-toolkit/freetype.git
-git clone https://github.com/native-toolkit/jpeg.git
-git clone https://github.com/native-toolkit/png.git
-git clone https://github.com/native-toolkit/zlib.git
-git clone https://github.com/native-toolkit/ogg.git
-git clone https://github.com/native-toolkit/vorbis.git
-git clone https://github.com/native-toolkit/modplug.git
-git clone https://github.com/native-toolkit/curl.git
-git clone https://github.com/native-toolkit/sdl.git
-git clone https://github.com/native-toolkit/sdl-mixer.git
-```
+git clone git@github.com:native-toolkit/angle.git
+git clone git@github.com:native-toolkit/freetype.git
+git clone git@github.com:native-toolkit/jpeg.git
+git clone git@github.com:native-toolkit/png.git
+git clone git@github.com:native-toolkit/zlib.git
+git clone git@github.com:native-toolkit/ogg.git
+git clone git@github.com:native-toolkit/vorbis.git
+git clone git@github.com:native-toolkit/modplug.git
+git clone git@github.com:native-toolkit/curl.git
+git clone git@github.com:native-toolkit/sdl.git
+git clone git@github.com:native-toolkit/sdl-mixer.git
 
 
 

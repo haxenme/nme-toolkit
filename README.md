@@ -20,17 +20,17 @@ mkdir nme-toolkit-dev
 haxelib dev nme-toolkit nme-toolkit-dev
 cd nme-toolkit-dev
 
-git clone git@github.com:native-toolkit/angle.git
-git clone git@github.com:native-toolkit/freetype.git
-git clone git@github.com:native-toolkit/jpeg.git
-git clone git@github.com:native-toolkit/png.git
-git clone git@github.com:native-toolkit/zlib.git
-git clone git@github.com:native-toolkit/ogg.git
-git clone git@github.com:native-toolkit/vorbis.git
-git clone git@github.com:native-toolkit/modplug.git
-git clone git@github.com:native-toolkit/curl.git
-git clone git@github.com:native-toolkit/sdl.git
-git clone git@github.com:native-toolkit/sdl-mixer.git
+git clone git@github.com:haxenme/toolkit-angle.git angle
+git clone git@github.com:haxenme/toolkit-freetype.git freetype
+git clone git@github.com:haxenme/toolkit-jpeg.git jpeg
+git clone git@github.com:haxenme/toolkit-png.git png
+git clone git@github.com:haxenme/toolkit-zlib.git zlib
+git clone git@github.com:haxenme/toolkit-ogg.git ogg
+git clone git@github.com:haxenme/toolkit-vorbis.git vorbis
+git clone git@github.com:haxenme/toolkit-modplug.git modplug
+git clone git@github.com:haxenme/toolkit-curl.git curl
+git clone git@github.com:haxenme/toolkit-sdl.git sdl
+git clone git@github.com:haxenme/toolkit-sdl-mixer.git sdl-mixer
 
 
 

@@ -1,33 +1,33 @@
 [submodule "angle"]
 	path = angle
-	url = https://github.com/native-toolkit/angle.git
+	url = https://github.com/haxenme/toolkit-angle.git
 [submodule "sdl"]
 	path = sdl
-	url = https://github.com/native-toolkit/sdl.git
+	url = https://github.com/haxenme/toolkit-sdl.git
 [submodule "png"]
 	path = png
-	url = https://github.com/haxenme/png.git
+	url = https://github.com/haxenme/toolkit-png.git
 [submodule "jpeg"]
 	path = jpeg
-	url = https://github.com/native-toolkit/jpeg.git
+	url = https://github.com/haxenme/toolkit-jpeg.git
 [submodule "zlib"]
 	path = zlib
-	url = https://github.com/native-toolkit/zlib.git
+	url = https://github.com/haxenme/toolkit-zlib.git
 [submodule "ogg"]
 	path = ogg
-	url = https://github.com/native-toolkit/ogg.git
+	url = https://github.com/haxenme/toolkit-ogg.git
 [submodule "vorbis"]
 	path = vorbis
-	url = https://github.com/native-toolkit/vorbis.git
+	url = https://github.com/haxenme/toolkit-vorbis.git
 [submodule "curl"]
 	path = curl
-	url = https://github.com/native-toolkit/curl.git
+	url = https://github.com/haxenme/toolkit-curl.git
 [submodule "freetype"]
 	path = freetype
-	url = https://github.com/native-toolkit/freetype.git
+	url = https://github.com/haxenme/toolkit-freetype.git
 [submodule "modplug"]
 	path = modplug
-	url = https://github.com/native-toolkit/modplug.git
+	url = https://github.com/haxenme/toolkit-modplug.git
 [submodule "sdl-mixer"]
 	path = sdl-mixer
-	url = https://github.com/native-toolkit/sdl-mixer.git
+	url = https://github.com/haxenme/toolkit-sdl-mixer.git

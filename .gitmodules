@@ -6,7 +6,7 @@
 	url = https://github.com/native-toolkit/sdl.git
 [submodule "png"]
 	path = png
-	url = https://github.com/native-toolkit/png.git
+	url = https://github.com/haxenme/png.git
 [submodule "jpeg"]
 	path = jpeg
 	url = https://github.com/native-toolkit/jpeg.git
